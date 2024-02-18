@@ -2,7 +2,7 @@
 using namespace std;
 
 
-//main fuction
+
 
 void calculator(){
   int num1, num2;
