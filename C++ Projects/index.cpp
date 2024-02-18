@@ -2,8 +2,6 @@
 using namespace std;
 
 
-
-
 void calculator(){
   int num1, num2;
   string op; // op means operator
